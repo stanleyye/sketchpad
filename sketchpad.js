@@ -2,7 +2,7 @@ $(document).ready(function(){
 	
 	// creates a 16x16 grid when page starts
 	
-	for (var divCount = 0; divCount<256;divCount++){
+	for (var divCount = 0; divCount<225;divCount++){
 		$("#gridwrap").append("<div class='grid'></div>");
 	};
 
