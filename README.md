@@ -1,2 +1,2 @@
 # sketchpad
-A sketchpad design using Javript
+A sketchpad design using Javascript
